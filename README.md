@@ -1,4 +1,4 @@
-# SALIC
+# PeriCoDe
 
 Social Active Learning for Image Classification
 
